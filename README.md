@@ -1,2 +1,17 @@
 # nodejs.application-docker-k8
-first build images ,push image to docker hub then use k8 cluster for nodejs application 
+............................................................................................................
+
+
+# Project Prerequisites
+
+    # Docker installed
+    # Kubernetes cluster
+    # Node.js environment
+    # Basic understanding of containerization
+
+### step 1:
+
+Key Deployment Stages
+
+    Create Node.js Application
+    Create a simple Express.js application:
