@@ -4,14 +4,20 @@
 
 # Project Prerequisites
 
-    # Docker installed
-    # Kubernetes cluster
-    # Node.js environment
-    # Basic understanding of containerization
+
+     Docker installed
+     
+     Kubernetes cluster
+     
+     Node.js environment
+     
+     Basic understanding of containerization
+     
 
 ### step 1:
 
-Key Deployment Stages
+      # Key Deployment Stages
 
-    Create Node.js Application
-    Create a simple Express.js application:
+    1.Create Node.js Application
+    
+      Create a simple Express.js application:
